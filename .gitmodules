@@ -1,0 +1,3 @@
+[submodule "UserInterface/Xaminals/Xamarin.Forms"]
+	path = UserInterface/Xaminals/Xamarin.Forms
+	url = git@github.com:xamarin/Xamarin.Forms.git
